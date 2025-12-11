@@ -1,0 +1,5 @@
+{
+  "name": "Pilot Prep Trainer",
+  "description": "A specialized training application for pilot selection tests, featuring AI-generated questions, math training modes, and detailed performance tracking.",
+  "requestFramePermissions": []
+}
